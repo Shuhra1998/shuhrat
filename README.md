@@ -1,0 +1,2 @@
+# shuhrat
+about function
